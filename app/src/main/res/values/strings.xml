@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currencies Exchange Rates</string>
+    <string name="error">An error occurred</string>
+</resources>
